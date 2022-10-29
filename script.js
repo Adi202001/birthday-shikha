@@ -37,7 +37,7 @@ $(function () {
     ],
     albumArtworks = ["_1"],
     trackUrl = [
-      "https://drive.google.com/file/d/1OoMrF0Pb9TZAi7lK9hUI4UVGTyQy9b56/view?usp=share_link",
+      "https://github.com/Adi202001/childern-s-day/blob/main/src/CHILDREN'S%20DAY%20SPECIAL%20(1).mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
