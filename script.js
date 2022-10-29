@@ -33,11 +33,11 @@ $(function () {
       "Childrensday's Special",
     ],
     trackNames = [
-      "Childrensday's Special",
+      "Happy Birthday!",
     ],
     albumArtworks = ["_1"],
     trackUrl = [
-      "/src/1.mp3",
+      "https://drive.google.com/file/d/1OoMrF0Pb9TZAi7lK9hUI4UVGTyQy9b56/view?usp=share_link",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
