@@ -30,10 +30,10 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Children'day Special",
+      "Happy Birthday",
     ],
     trackNames = [
-      "Happy Birthday!",
+      "Children's day Special",
     ],
     albumArtworks = ["_1"],
     trackUrl = [
