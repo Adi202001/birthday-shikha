@@ -30,14 +30,14 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Childrensday's Special",
+      "Children'day Special",
     ],
     trackNames = [
       "Happy Birthday!",
     ],
     albumArtworks = ["_1"],
     trackUrl = [
-      "https://github.com/Adi202001/childern-s-day/blob/main/src/CHILDREN'S%20DAY%20SPECIAL%20(1).mp3",
+      "https://raw.githubusercontent.com/Adi202001/childern-s-day/main/src/CHILDREN'S%20DAY%20SPECIAL%20(1).mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
